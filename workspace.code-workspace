@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\Bootstrap-5-Theming-Kit-main\\theming-kit"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "bootstrap-v5"
+    }
+}
