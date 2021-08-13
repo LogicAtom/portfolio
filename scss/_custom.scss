@@ -1,3 +1,8 @@
+// MY THEME COLORS
+$purple:  #6f42c1 !default;
+$pink:    #d63384 !default;
+
+
 // WHITE AND GRAY COLORS
 $white:    #fff;
 $gray-100: #f8f9fa;
@@ -10,6 +15,10 @@ $gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
 $black:    #000;
+
+
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
 
 
 //IMPORT BOOTSTRAP 5
